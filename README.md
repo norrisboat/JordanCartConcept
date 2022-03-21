@@ -1,7 +1,7 @@
 # JordanCartConcept
 
-Replication of a [cart animation](https://twitter.com/_kavsoft/status/1503376998135054337?s=21) inspired by [kavsoft](https://twitter.com/_kavsoft?s=21)
+A Jetpack Compose replication of [cart animation](https://twitter.com/_kavsoft/status/1503376998135054337?s=21) done in SwiftUI inspired by [kavsoft](https://twitter.com/_kavsoft?s=21)
 
-| Compose | Dribble | 
+| Compose | SwiftUI | 
 | ------------- | ------------- |
-| ![Compose]( "Compose")  | ![Kavsoft]( "Kavsoft") |
+| ![Compose](https://github.com/norrisboat/JordanCartConcept/blob/main/Media/JordanConcept.mov "Compose")  | ![Kavsoft](https://github.com/norrisboat/JordanCartConcept/blob/main/Media/SwiftUI.mp4 "Kavsoft") |
